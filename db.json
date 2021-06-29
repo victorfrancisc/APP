@@ -3,6 +3,7 @@
     {
       "id": 1,
     "name": "Eren Yeager",
+    "rol":"Admin",
     "user":"Admin",
     "pass":"admin",
     "Age": "Configuración",
@@ -16,6 +17,7 @@
      {
     "id": 2,
     "name": "Mikasa Ackerman",
+    "rol":"Admin",
     "user":"Admin2",
     "pass":"admin2",
     "Age": "Configuración",
@@ -28,6 +30,7 @@
     {
     "id": 3,
     "name": "Armin Alert",
+    "rol":"normal",
     "user":"victor",
     "pass":"victor",
     "Age": "Camara",
